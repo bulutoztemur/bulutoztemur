@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### :man_technologist: I’m currently working at Intertech as iOS Developer.
+### :man_technologist: I’m currently working at eBay Kleinanzeigen as iOS Developer.
 ### :books: I’m constantly learning new things about iOS Application Development. 
 ### :mortar_board: Istanbul Technical University Computer Engineering'17
 ### 💬 Ask me anything that you think I could know.
